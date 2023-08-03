@@ -96,6 +96,8 @@ button {
 .menu {
   display: flex;
   gap: 40px;
+}
+.menu-item {
   padding-top: 24px;
   padding-bottom: 24px;
 }
